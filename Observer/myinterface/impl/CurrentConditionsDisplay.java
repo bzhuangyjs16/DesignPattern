@@ -1,9 +1,8 @@
-package day02.myinterface.impl;
+package Observer.myinterface.impl;
 
-import day02.myinterface.Display;
-import day02.myinterface.Observer;
-import day02.myinterface.Subject;
-import jdk.internal.loader.AbstractClassLoaderValue;
+import Observer.myinterface.Display;
+import Observer.myinterface.Observer;
+import Observer.myinterface.Subject;
 
 public class CurrentConditionsDisplay implements Observer, Display {
     private float temp;

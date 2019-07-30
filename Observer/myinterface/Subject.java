@@ -1,4 +1,4 @@
-package day02.myinterface;
+package Observer.myinterface;
 
 public interface Subject {
      void registerObserver(Observer o);

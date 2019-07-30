@@ -1,6 +1,4 @@
-package day02.myinterface.impl;
-
-import day02.myinterface.Observer;
+package Observer.myinterface.impl;
 
 public class WeatherStation {
     public static void main(String[] args){

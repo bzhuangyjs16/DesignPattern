@@ -1,7 +1,7 @@
-package day02.myinterface.impl;
+package Observer.myinterface.impl;
 
-import day02.myinterface.Observer;
-import day02.myinterface.Subject;
+import Observer.myinterface.Observer;
+import Observer.myinterface.Subject;
 
 import java.util.ArrayList;
 
