@@ -1,4 +1,4 @@
-package day01.Behavior;
+package Strategy.Behavior;
 
 public interface FlyBehavior {
     public void fly();

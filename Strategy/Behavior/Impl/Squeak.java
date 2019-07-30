@@ -1,6 +1,6 @@
-package day01.Behavior.Impl;
+package Strategy.Behavior.Impl;
 
-import day01.Behavior.QuackBehavior;
+import Strategy.Behavior.QuackBehavior;
 
 public class Squeak implements QuackBehavior {
     @Override

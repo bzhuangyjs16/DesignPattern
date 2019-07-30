@@ -1,7 +1,7 @@
-package day01;
+package Strategy;
 
-import day01.Behavior.Impl.FlyWithWings;
-import day01.Behavior.Impl.Quack;
+import Strategy.Behavior.Impl.FlyWithWings;
+import Strategy.Behavior.Impl.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck(){

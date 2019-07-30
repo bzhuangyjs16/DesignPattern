@@ -1,6 +1,6 @@
-package day01;
+package Strategy;
 
-import day01.Behavior.Impl.FlyRocketPowered;
+import Strategy.Behavior.Impl.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args){
